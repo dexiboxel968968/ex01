@@ -1,1 +1,3 @@
 はじめてのGitHub
+git Clone
+git status
